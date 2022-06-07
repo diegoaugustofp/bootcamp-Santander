@@ -1,17 +1,17 @@
 # Repositorio para o Bootcamp Santander
 
-Este repositorio foi criado para salvar os exercicios do bootcamp Santander ministrado pela Dio.
+Este repositório foi criado para salvar os exercícios do bootcamp Santander ministrado pela Dio.
 
-Nele terão os exercicios dos cursos para o FULL STACK
+Nele terão os exercícios dos cursos para o FULL STACK.
 
-A estrutura de pastas estará organida com 1 pasta para cada curso e uma pasta para salvar os certificados
+A estrutura de pastas estará organizada com 1 pasta para cada curso e uma pasta para salvar os certificads.
 
 ## Cursos
 
 + Git/Github
 + Html5
 + CSS3
-+ Textbox
++ Flextbox em CSS
 
 ## Links úteis
 
