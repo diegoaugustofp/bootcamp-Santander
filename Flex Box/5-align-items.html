@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Align Items</title>
+    <style>
+        .container{
+            max-width: 350px;
+            border: 1px solid black;
+            display: flex;
+            
+        }
+
+        .item  {
+            background-color: blue;
+            margin: 5px;
+            color: white;
+            text-align: center;
+            flex: 1;
+        }
+
+       .center{
+            align-items: center;
+        }
+
+        .stretch{
+            align-items: stretch;
+        }
+    </style>
+</head>
+<body>
+
+    <p>Center - não funcionou</p>
+    <section class="container center">
+        <div class="item">1321</div>
+        <div class="item">gdjafhlfjkjlkçjkljkjçjçkljadjkhfldfajlds</div>
+        <div class="item">lçlkjklçjk</div>
+    </section>
+
+    <p>stretch - não funcionou</p>
+    <section class="container stretch">
+        <div class="item ">1321</div>
+        <div class="item ">gdjafhlfjkjlkçjkljkjçjçkljadjkhfldfajlds</div>
+        <div class="item ">lçlkjklçjk</div>
+    </section>
+</body>
+</html>
