@@ -11,7 +11,8 @@ A estrutura de pastas estará organizada com 1 pasta para cada curso e uma pasta
 + Git/Github
 + Html5
 + CSS3
-+ Flextbox em CSS
++ Flexbox em CSS
++ Java Script
 
 ## Links úteis
 
